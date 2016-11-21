@@ -1,0 +1,57 @@
+body {
+	background-image: url(http://1.bp.blogspot.com/-2IYcfF5hlQU/UGLGdSQZcSI/AAAAAAAABhQ/jFDKY6GhU9c/s1600/dna-structure.jpg);
+	background-position: center center center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+.test {
+	color: white;
+	text-align: center;
+	font-family: 'Walter Turncoat', cursive;
+	font-size: 45px
+}
+.jhund {
+	color: #e1f6cd;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 230%
+}
+
+
+.correct {
+	color: #e1f6cd;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 230%
+}
+
+.incorrect {
+	color: red;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 230%
+}
+
+h1 {
+	color: white;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 230%
+}
+
+#bhinda {
+	margin: 20px 0 10px;
+	background-color: grey;
+	font-family: cursive;
+	color: #e1f6cd;
+	font-size: 20px
+
+}
+
+input {
+	width: 60%;
+	background-color: grey;
+	font-family: cursive;
+}
+
+
+
